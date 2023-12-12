@@ -2,7 +2,7 @@
 # Technical Paper
 | Title                                                      | Conference / Journal                                                      | Year  |
 | ------------------------------------------------------------ | -------------------------------- | ---------- |
-| [LiveHand: Real-time and Photorealistic Neural Hand Rendering]([https://arxiv.org/abs/2303.05938](https://arxiv.org/abs/2302.07672)) | ICCV | 2023 |
+| [LiveHand: Real-time and Photorealistic Neural Hand Rendering](https://arxiv.org/abs/2302.07672) | ICCV | 2023 |
 | [ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction](https://arxiv.org/abs/2303.05938) | CVPR | 2023 |
 | [Interacting Attention Graph for Single Image Two-Hand Reconstruction](https://arxiv.org/abs/2203.09364) | CVPR | 2022 |
 
